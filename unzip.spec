@@ -1,7 +1,7 @@
 Summary:	Unpacks .zip files such as those made by pkzip under DOS
 Name:		unzip
 Version:	6.0
-Release:	3
+Release:	4
 License:	distributable
 Group:		Applications/Archiving
 Source0:	ftp://ftp.info-zip.org/pub/infozip/src/%{name}60.tgz
